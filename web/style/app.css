@@ -4,10 +4,6 @@
   align-items: center;
 }
 
-#app > img {
-  width: 64px;
-}
-
 #app > h1 {
   color: #996dff;
   font-size: 34px;
@@ -23,6 +19,7 @@
   align-self: flex-start;
   text-align: justify;
   width: 512px;
+  margin-top: -5px;
 }
 
 #app .placeholder {
